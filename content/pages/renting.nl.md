@@ -7,9 +7,9 @@ layout: "simple"
 
 <!-- # Huren -->
 
-Clubhuis Cantaloup is een multifunctionele ruimte die te huur is voor verschillende (culturele) activiteiten voor zowel volwassenen als kinderen. In de afgelopen jaren is het clubhuis bijvoorbeeld verhuurd aan theatergroepen als oefenruimte, tekenles voor kinderen en een club voor ouderen. In de weekenden (van 14:00 tot 18:00 uur) is het Clubhuis te huur voor buurtgenoten voor kleinschalige kinderfeestjes of andere activiteiten. 
+Clubhuis Cantaloup is een multifunctionele ruimte die te huur is voor verschillende (culturele) activiteiten voor zowel volwassenen als kinderen. In de afgelopen jaren is het clubhuis bijvoorbeeld verhuurd aan theatergroepen als oefenruimte, tekenles voor kinderen en een club voor ouderen. Vanaf 1 januari 2025 is het Clubhuis in de weekenden te huur (van 10.00 tot 14.00 uur en van 14:00 tot 18:00 uur) voor buurtgenoten voor kleinschalige kinderfeestjes of andere activiteiten. Let op: de speeltuin gaat om 18.00 uur dicht. Opruimen van het Clubhuis moet dan ook tijdens het gehuurde dagdeel plaatsvinden. 
 
-Huur per dagdeel: €75,-  
+Huur per dagdeel: €100,-  
 
 {{< alert >}}
 **De speeltuin zelf is niet te huur en blijft openbaar!** 
@@ -54,7 +54,6 @@ Wij houden op vrijwillige basis deze unieke plek in de stad in stand. Voor u is 
 - **alcoholgerbuik:** Matig gebruik van alcohol in het Clubhuis is toegestaan. Het is niet toegestaan om buiten het Clubhuis al dan niet lege flessen/glazen neer te zetten. Houdt er in alle gevallen rekening mee dat u zich in een openbare Speeltuin bevindt.
 - **groot speelgoed:** Zelf meegebracht (groot) speelgoed zoals luchtkussens, zwembadjes, etc. is niet toegestaan in het Clubhuis en de Speeltuin.
 - **speeltuin:** U huurt alleen het Clubhuis, de Speeltuin is nimmer voor exclusief gebruik te reserveren. Houdt er rekening mee dat andere bezoekers vrij van de Speeltuin gebruik moeten kunnen maken.
-- **tijden:** U huurt het Clubhuis van 14:00 tot 18:00 uur. U mag tot een (1) uur voorafgaand aan tot een (1) uur aansluitend op deze huurtijd in het Clubhuis i.v.m. voorbereiding en afsluiting/opruimen van uw activiteit.
 - **tuintjes:** Aan de linkerkant van de lange heg is een aantal tuintjes, hier mogen de kinderen niet komen.
 - **vragen:** Vragen tijdens de huur stelt u aan uw contactpersoon.
 - **schade/aansprakenlikheid:** zie algemene voorwaarden. (???link???) 

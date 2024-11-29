@@ -7,9 +7,9 @@ layout: "simple"
 
 <!-- # Renting -->
 
-Cantaloup Clubhouse is a multifunctional space that can be rented for various (cultural) activities for both adults and children. In the past years the clubhouse was used for example: by theater groups (as a space for practice); for art classes for children and for the meetings of the "seniors club". During the weekends the clubhouse can he rented (from 14:00 till 18:00) by the community members of the neighborhood as a venue of birthday celebration for children.  
+Cantaloup Clubhouse is a multifunctional space that can be rented for various (cultural) activities for both adults and children. In the past years the clubhouse was used for example: by theater groups (as a space for practice); for art classes for children and for the meetings of the "seniors club". From 1 January 2025, the Clubhouse can be rented on weekends (from 10:00 to 14:00 and from 14:00 to 18:00) by the community members of the neighborhood for small-scale children's parties or other activities. Please note: the playground closes at 18:00. Cleaning up the Clubhouse must also take place during the rented part of the day.
 
-The rent for (a part of) a day is: €75,-  
+Rent per part of the day: €100,-
 
 {{< alert >}}
 **The playground itself is not for rent and cannot be reserved as it is a public space!**  
@@ -56,7 +56,6 @@ We manage and maintain this unique place in the city with voluntary work. You ma
 - **alcohol use:** Only responsible use of limited / small amounts of alcohol for celebrations is allowed inside of the clubhouse. It is not allowed to use it outside of the clubhouse, and it is not allowed to place empty glass / bottles outside of the clubhouse. Please take Houdt er in alle gevallen rekening mee dat u zich in een openbare Speeltuin bevindt.
 - **large toys:** Bringing your own (large) toys such as bouncy castles, swimming pools, etc. is not allowed in the clubhouse and the playground.
 - **playground:** You only rent the clubhouse, the playground can never be reserved for exclusive use. Please note that other visitors must be able to use the playground freely.
-- **rental hours:** You rent the Clubhouse from 2:00 PM to 6:00 PM. You may enter the Clubhouse up to one (1) hour prior to and one (1) hour after this rental time due to preparation and closure/cleaning up of your activity.
 - **garden plots:** On the left side of the long hedge is a number of garden plots, children are not allowed to go there.
 - **questions:** Questions during the rental can be asked to your contact person.
 - **damage/liability:** see general terms and conditions. (???link???)
